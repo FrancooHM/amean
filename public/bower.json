@@ -1,0 +1,25 @@
+{
+  "name": "BeerTaps",
+  "authors": [
+    "Franco Rabaglia <francoo.hd@gmail.com>"
+  ],
+  "description": "Russel BeerTaps App",
+  "main": "app.js",
+  "keywords": [
+    "iot",
+    "beer"
+  ],
+  "license": "MIT",
+  "homepage": "www.genosha.com.ar",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.97.7"
+  }
+}
